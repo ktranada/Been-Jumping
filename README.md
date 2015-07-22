@@ -1,6 +1,6 @@
-# Been a Jumping is an endless sidescrolling game I implemented with Phaser, a Desktop and Mobile HTML5 framework.
+### Been Jumping is an endless sidescrolling game I implemented with Phaser, a Desktop and Mobile HTML5 framework.
 
-## Backstory
+#### Backstory
 
 Chun Li is currently in between Street Fighter tournaments at the moment, but her fitness never takes an off day.
 
@@ -10,4 +10,4 @@ Today is special though, she decided to practice box jumps on top of magical pla
 
 One weak, uncalculated jump is all it takes for her to fail.
 
-** It is up to you to coach her and make sure is ready for Street Fighter 5.**
+**It is up to you to coach her and make sure she is ready for Street Fighter 5.**
