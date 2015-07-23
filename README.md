@@ -1,4 +1,4 @@
-### Been Jumping is an endless sidescrolling game I implemented with Phaser, a Desktop and Mobile HTML5 framework.
+### Chun-Li: Leg Day is a JavaScript game I implemented with Phaser, a Desktop and Mobile HTML5 framework.
 
 #### Backstory
 
