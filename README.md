@@ -12,6 +12,11 @@ One weak, uncalculated jump is all it takes for her to fail.
 
 **It is up to you to coach her and make sure she is ready for Street Fighter 5.**
 
+#### Notes
+
+The `High Score` will only be your own. Because in life, you don't measure your success by evaluating another person's. You are your biggest challenge and you should strive to overcome it. That and I decided to use localStorage to keep track of scores. 
+
+
 #### How to play
 
 1) Click and hold anywhere in the game to begin charging Chun Li's leg muscles.
