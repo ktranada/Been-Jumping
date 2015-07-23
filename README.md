@@ -14,9 +14,9 @@ One weak, uncalculated jump is all it takes for her to fail.
 
 #### How to play
 
-1) Click and hold anywhere in the game to begin charging Chun Li's leg muscles.
-2) When you think she's ready, release thy finger.
-3) Soar through the heavens.
+1) Click and hold anywhere in the game to begin charging Chun Li's leg muscles. <br>
+2) When you think she's ready, release thy finger.<br>
+3) Soar through the heavens.<br>
 
 
 #### Notes
