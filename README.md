@@ -1,6 +1,6 @@
 ### Chun-Li: Leg Day is a JavaScript game I implemented with Phaser, a Desktop and Mobile HTML5 framework.
 
-[It's live, play it here!](www.kvntrn.me/Been-Jumping/)
+[It's live, play it here!](http://kvntrn.me/Been-Jumping/)
 
 #### Backstory
 
